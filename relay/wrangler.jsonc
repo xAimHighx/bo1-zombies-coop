@@ -19,4 +19,4 @@
     // Pages allowed to open rooms (requests without an Origin header, such as tests, are accepted too).
     "ALLOWED_ORIGINS": "https://vel.gg"
   }
-}
+} 
